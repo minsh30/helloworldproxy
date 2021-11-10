@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="HelloWorld">
+    <Basepaths>/helloworld</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1634566633787</CreatedAt>
+    <CreatedBy>minshud@sidgs.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>HelloWorld</DisplayName>
+    <LastModifiedAt>1634566633787</LastModifiedAt>
+    <LastModifiedBy>minshud@sidgs.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:f833f045182696bc0dbcff01c73a561f5536c2fc53968df0046ce33527e48714c0f7ef7dc21f9e196d21801592ca24b75bcef6f432fd4f9ca613e93c6314264a:us-east-1</ManifestVersion>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
